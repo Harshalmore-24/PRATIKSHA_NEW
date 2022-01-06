@@ -1,0 +1,5 @@
+Payee ID,Payment Type,Payee/Beneficiary Name,Payment Date,Beneficiary Address 1,Beneficiary Address 2,Beneficiary City,Beneficiary State,Beneficiary Zip Code,Beneficiary Country,Invoice Number,Amount Paid,Invoice Date,Currency,ACH Type,Bank Name,Bank Address,Account number /or IBAN,Routing number /or BIC,For Further Credit To,Intermediary Bank,Intermediary Bank BIC,Intermediary Bank Address,Internal ID,Remittance
+12,Wire,Epsilon Telecommunications (US) PTE LTD,09/07/2020,"Epsilon Telecommunications (US) PTE LTD
+151 Lorong Chuan #06-01A Lobby A Newtech Park
+Singapore
+Singapore",151 Lorong Chuan #06-01A Lobby A Newtech Park,Singapore,- None -,- None -,SG,Bill #ETUS-2019400667,1540,09/07/2020,USD,,Wells Fargo,Phoenix Arizona,107002192,121000248,,,,,12,Bill #ETUS-2019400667

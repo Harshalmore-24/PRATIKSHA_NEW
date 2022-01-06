@@ -1,0 +1,5 @@
+Payee ID,Payment Type,Payee/Beneficiary Name,Payment Date,Beneficiary Address 1,Beneficiary Address 2,Beneficiary City,Beneficiary State,Beneficiary Zip Code,Beneficiary Country,Invoice Number,Amount Paid,Invoice Date,Currency,ACH Type,Bank Name,Bank Address,Account number /or IBAN,Routing number /or BIC,For Further Credit To,Intermediary Bank,Intermediary Bank BIC,Intermediary Bank Address,Internal ID,Remittance
+11,Wire,Equinix Poland,09/07/2020,"Equinix (Poland) Sp. z o.o. 
+Aleje Jerozolimskie 65/79 
+Warszawa  00-697 
+Poland",Aleje Jerozolimskie 65/79,Warszawa,- None -,00-697,PL,Bill #208210004142,38103.17,09/07/2020,PLN,,HSBC Bank Polska SA,Polska,PL77128000030000003183100031,HSBCPLPWXXX,,,,,11,Bill #208210004142
